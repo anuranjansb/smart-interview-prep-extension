@@ -3,21 +3,7 @@ Remove all triple backticks or extra formatting.
 
 Your README should be **pure markdown**, no wrapping.
 
----
 
-# ✅ **STEP 3 — Replace your README with the clean version**
-
-Here’s the CLEAN version again.  
-Copy → Paste → Save.
-
-👉 Follow these steps precisely:
-
-### 1. Open your README  
-### 2. Click the ✏️ Edit icon  
-### 3. Delete EVERYTHING  
-### 4. Paste THIS EXACT content:
-
----
 
 # 🧠 Smart Interview Prep – Chrome Extension (Manifest V3)
 
