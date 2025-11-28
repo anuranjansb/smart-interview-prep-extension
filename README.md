@@ -161,8 +161,9 @@ This project is licensed under the **MIT License**.
 
 # 👤 Author
 
-**Anuranjan SB**
-🔗 GitHub: [https://github.com/anuranjansb](https://github.com/anuranjansb)
-🔗 LinkedIn: [https://www.linkedin.com/in/anuranjan-sb-5b2500255/](https://www.linkedin.com/in/anuranjan-sb-5b2500255/)
+**Anuranjan SB**  
+🔗 GitHub: https://github.com/anuranjansb  
+🔗 LinkedIn: https://www.linkedin.com/in/anuranjan-sb-5b2500255/
+
 
 ---
