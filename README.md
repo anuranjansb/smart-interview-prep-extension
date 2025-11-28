@@ -1,7 +1,4 @@
 
-Remove all triple backticks or extra formatting.
-
-Your README should be **pure markdown**, no wrapping.
 
 
 
