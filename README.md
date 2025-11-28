@@ -5,7 +5,6 @@ A Chrome Extension designed to help you **track DSA progress**, stay **consisten
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # 📸 Screenshots
 
@@ -23,7 +22,7 @@ A Chrome Extension designed to help you **track DSA progress**, stay **consisten
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🚀 Features
 
@@ -82,7 +81,7 @@ Resets all DSA topic counters instantly.
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🛠️ Tech Stack
 
@@ -95,7 +94,7 @@ Resets all DSA topic counters instantly.
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 📁 Project Structure
 
@@ -112,7 +111,7 @@ smart-interview-prep-extension/
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 📦 Installation (Developer Mode)
 
@@ -125,7 +124,7 @@ smart-interview-prep-extension/
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🎯 Usage
 
@@ -137,7 +136,7 @@ smart-interview-prep-extension/
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🔮 Future Enhancements
 
@@ -150,7 +149,7 @@ smart-interview-prep-extension/
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 📄 License
 
@@ -158,7 +157,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 👤 Author
 
