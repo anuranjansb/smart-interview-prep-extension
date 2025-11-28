@@ -83,6 +83,6 @@ Resets all progress with a single click.
 ## 👤 Author
 **Anuranjan SB**  
 - GitHub: https://github.com/anuranjansb  
-- LinkedIn: https://www.linkedin.com/in/anuranjan-sb
+- LinkedIn: https://www.linkedin.com/in/anuranjan-sb-5b2500255
 
 ---
