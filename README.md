@@ -86,7 +86,3 @@ Resets all progress with a single click.
 - LinkedIn: https://www.linkedin.com/in/anuranjan-sb
 
 ---
-
-# ✅ **STEP 4 — Commit the changes**
-
-Commit message:  
