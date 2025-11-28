@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Smart Interview Prep",
+    "version": "1.0",
+    "description": "Track your DSA progress and get daily practice suggestions.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Smart Interview Prep"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "storage"
+    ],
+    "host_permissions": [
+        "https://leetcode.com/*",
+        "https://www.geeksforgeeks.org/*",
+        "https://practice.geeksforgeeks.org/*"
+    ]
+}
